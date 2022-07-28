@@ -8,6 +8,11 @@
 /* 
 Farbe:  / #848484 , #323A45
  */
+img:hover {
+    opacity: 0.3;
+    cursor: pointer;
+}
+
 header {
     display: flex;
     justify-content: space-between;
@@ -42,6 +47,11 @@ a {
     width: 100%;
     margin-bottom: 3vh;
 }
+
+/* .img_111:hover {
+    opacity: 0.3;
+
+} */
 
 .p_preise {
     display: flex;
